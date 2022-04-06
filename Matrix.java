@@ -47,6 +47,6 @@ private final int[][] m;
         obj.colsum();
     }
 }
-       
+      
     
    
