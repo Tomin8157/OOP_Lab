@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package factorial;
+package reverse;
 
 import java.util.Scanner;
 
@@ -11,25 +11,17 @@ import java.util.Scanner;
  *
  * @author sjcet
  */
-public class Factorial {
+public class Reverse {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int n,i,fact=1;
-        Scanner d=new Scanner(System.in);
-        System.out.println("enter the value:\n");
-        n=d.nextInt();
-        for(i=1;i<=n;i++)
-        {
-            fact=fact*i;
-            
-        }
-        System.out.println("factorial is "+fact);
-        }
+        char a;
+        Scanner b=new Scanner(System.in);
+        System.out.println("enter a();
         
         // TODO code application logic here
     }
     
-
+}
